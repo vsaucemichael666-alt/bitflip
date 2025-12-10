@@ -43,7 +43,7 @@ def generate_chaos_code(original_text, corrupted_text):
 
 
 
-res = generate_chaos_code("bdhsjlchp", "bdhs.lchp")
+res = generate_chaos_code("1 text", "2 text")
 
 
 print( res )
